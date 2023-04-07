@@ -14,12 +14,12 @@ Some projects exploits freshly discovered vulnerabilities or may be used by mali
 📍 Practicing reverse engineering in order to exploit OEM drivers vulnerabilities <br>
 📍 Trying to find communication methods between KM/UM, based on already known ones such as [TCP Sockets], [.data ptr], [IOCTL Hijacking] <br>
 
-<hr /> 
+<br /> 
 
 📎 Also learning game programming <br>
 📎 Trying to make small game engines with SFML (c++), OpenGL (c++). Currently working on a raycast engine and 3D OpenGL <br>
 
-<hr />
+<br />
 
 📌 Cybersecurity : AntiCheats sofwtares fascinate me <br>
 📌 Trying to understand AC Bypassing methods <br>
