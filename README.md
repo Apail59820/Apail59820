@@ -30,7 +30,8 @@ Some projects exploits freshly discovered vulnerabilities or may be used by mali
   <li>Overlays (hooking and ImGUI)</li>
   <li>And way more</li>
 </ul>
-
+<br>
+📌 Former HTB CTF player (roughly a dozen of CTFs completed), to be honest : i rarely came back with the root flag
 <hr />
 
 <h1>  Experience</h1>
