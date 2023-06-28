@@ -48,3 +48,8 @@ I also had the chance of modifying one of the crane's PLC.
 <h1> Contact Me </h1>
 
 - amaury.paillart59820@gmail.com
+  
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=Apail59820&theme=react&hide_border=false)<br/>
+
+
