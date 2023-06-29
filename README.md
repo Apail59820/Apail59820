@@ -2,7 +2,7 @@
 
 - 👋 I’m Amaury, french IT student currently in ATC - Digital Systems / IT & Network
 - 👀 Most of my projects are about Hacking
-- 🌱 My repositories are merged from my private github, that explains why i don't commit on this one, everything is just uploaded.
+- 🌱 My repositories are merged from my private github, that explains why i don't commit on this one, everything is just uploaded. (subject to exceptions)
 Some projects exploits freshly discovered vulnerabilities or may be used by malicious people. They wont be uploaded on this portfolio.
 
 
