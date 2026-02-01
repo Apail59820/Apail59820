@@ -11,7 +11,7 @@ When I’m not coding: Riding motorcycles, movies, metal in my headphones 🎧.
 Open to new connections and ideas — message me anytime 😄
 
 ## ⚡ Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Apail59820)](https://github.com/anuraghazra/github-readme-stats)
+[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Apail59820)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
 ##  🎉 Skills  🎉
 - **FrontEnd**: Next.JS, React, TypeScript, SASS / SCSS
